@@ -1,8 +1,8 @@
 # Gabriel Biolchini Ladvocat
 
-[Graduando em Arquitetura, apaixonado por segurança de dados e python.]
-[Cursando Analise e Desenvolvimento de Sistemas na PUC-GO.]
-[Procurando emprego para desenvolver ainda melhor as minhas habilidades.]
+Graduando em Arquitetura, apaixonado por segurança de dados e python.
+Cursando Analise e Desenvolvimento de Sistemas na PUC-GO.
+Procurando emprego para desenvolver ainda melhor as minhas habilidades.
 
 ### Conecte-se comigo
 
